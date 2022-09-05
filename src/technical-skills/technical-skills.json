@@ -1,0 +1,23 @@
+{
+  "languages": [
+    "C#",
+    "Javascript",
+    "Java",
+    "C++",
+    "Lua"
+  ],
+  "databases": [
+    "SQL Server",
+    "PostgreSQL"
+  ],
+  "devOps": [
+    "Docker",
+    "Docker Compose",
+    "Kubernetes"
+  ],
+  "methodologies": [
+    "Object-Oriented Programming",
+    "Test Driven Development (TDD)",
+    "Pair Programming"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "education": {
+    "description": "I studied at Temple Universitry where I graduated in 2012 with a BS in Computer Science",
+    "image": "temple.png"
+  },
+  "additionalQualifications":[
+    {
+      "description": "Japanaese Language Proficiency Test N3 Certified - January 2020",
+      "image": "jlpt.png"
+    }
+  ]
+}

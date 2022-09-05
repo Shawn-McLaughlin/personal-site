@@ -1,0 +1,33 @@
+{
+  "funFacts": [
+    "My wife and I met when we were set up as blind dates for Prom. We have been together since April 2007 and we married in 2015. We welcomed our first child into the world in 2021 and I've since forgotten what a full night's sleep is.",
+    "I love Japan. I studied Japanese for my language requirement in college and resumed studying after I graduated. In 2019, I passed the Japanese Language Proficiency Test level N3. I've been to Japan twice, made some friends there, and can't wait to return.",
+    "My hobbies include playing video games (particularly fighting games), rock climbing (when there's not a global pandemic preventing me from going), and spending time with my family."
+  ],
+  "favorites": [
+    {
+      "category": "Movies",
+      "items": [
+        "Interstellar",
+        "Spaceballs",
+        "Your Name"
+      ]
+    },
+    {
+      "category": "TV Shows",
+      "items": [
+        "The Simpsons",
+        "Community",
+        "Gravity Falls"
+      ]
+    },
+    {
+      "category": "Video Games",
+      "items": [
+        "Outer Wilds",
+        "Chrono Cross",
+        "Dragon Ball FighterZ"
+      ]
+    }
+  ]
+}
