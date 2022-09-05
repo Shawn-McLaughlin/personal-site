@@ -1,5 +1,4 @@
 import {Grid, Typography} from "@mui/material"
-import PropTypes from "prop-types";
 import React from "react";
 import qualifications from "./qualifications.json"
 
@@ -32,10 +31,6 @@ function EducationQualifications() {
             })}
         </React.Fragment>
     );
-}
-
-EducationQualifications.propTypes = {
-    qualifications: PropTypes.arrayOf(PropTypes.object)
 }
 
 export default EducationQualifications;

@@ -1,5 +1,4 @@
 import {Typography} from "@mui/material";
-import PropTypes from "prop-types";
 import React from "react";
 import personalDetails from "./personal-life.json";
 
@@ -29,9 +28,5 @@ function PersonalLife() {
         })}
     </React.Fragment>;
 };
-
-PersonalLife.propTypes = {
-    personalDetails: PropTypes.object,
-}
 
 export default PersonalLife;

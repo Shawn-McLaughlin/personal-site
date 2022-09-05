@@ -48,6 +48,7 @@ function CompanyCard(props) {
         <CardHeader
             avatar={
                 <img
+                    alt={companyInfo.logo}
                     src={require(`./${companyInfo.logo}`)}
                     style={{
                         height: "auto",

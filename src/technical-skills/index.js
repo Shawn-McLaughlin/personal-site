@@ -1,5 +1,4 @@
 import {Typography} from "@mui/material";
-import PropTypes from "prop-types";
 import React from "react";
 import technicalSkills from "./technical-skills.json"
 
@@ -43,9 +42,5 @@ function TechnicalSkills() {
         </Typography>
     </React.Fragment>;
 };
-
-TechnicalSkills.propTypes = {
-    technicalSkills: PropTypes.object,
-}
 
 export default TechnicalSkills;
