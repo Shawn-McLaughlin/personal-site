@@ -9,7 +9,8 @@
   ],
   "databases": [
     "SQL Server",
-    "PostgreSQL"
+    "PostgreSQL",
+    "MongoDB"
   ],
   "devOps": [
     "Docker",
